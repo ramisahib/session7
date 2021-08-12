@@ -1,0 +1,49 @@
+.content{
+
+padding-top: 100px;
+width: 100%;
+
+}
+
+
+.img{
+
+    display: inline-block;
+margin-left: 10%;
+margin-top: %;
+}
+
+
+.text{
+    margin-left: 5%;
+    font-family: "Rubik",sans-serif;
+    font-weight: 300;
+    color: #000;
+    display: inline-block;
+    font-size: 24px;
+    width: 40%;
+text-align: start;    
+}
+
+.p{
+    font-size: 15px;
+    font-weight: 50%;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+}
+
+.button{
+    color: #fff;
+    font-size: 14px;
+    line-height: 46px;
+    outline: none!important;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background-origin: border-box;
+    background-clip: content-box , border-box;
+    background-image: linear-gradient(to right,#4458dc 0%,#854fee 100%) , radial-gradient(circle at top left,#4458dc,#854fee);
+    border: double 2px transparent;
+    box-shadow: 0 10px 30px rgb(118 85 225 / 30%);
+}
